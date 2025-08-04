@@ -41,7 +41,7 @@ This backend is designed to work together with a FastAPI-based AI model service 
 1. **Clone the project:**
 
    ```bash
-   git clone https://github.com/busrozcn/deepfake-spring-backend.git
+   git clone https://github.com/busraozcn/DeepfakeDetection-Spring-Backend/.git
    cd deepfake-spring-backend 
    ```
 2. **Configure the database in src/main/resources/application.properties:**
